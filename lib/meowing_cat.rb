@@ -7,4 +7,6 @@ class Cat
   def meow
     puts "meow!"
   end
+  maru.name
+  maru.meow
 end
