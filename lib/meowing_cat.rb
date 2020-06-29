@@ -1,4 +1,4 @@
 class Cat
-  attr_reader :meow
-  attr_writer :meow
+  attr_accessor :meow
+  
 end
