@@ -5,5 +5,6 @@ class Cat
   maru.name = "Maru"
  
   def meow
-    puts ""
+    puts "meow!"
+  end
 end
